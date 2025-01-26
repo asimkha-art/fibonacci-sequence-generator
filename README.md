@@ -16,3 +16,16 @@ Input Validation: Ensures only positive integers are accepted for generating seq
 Instructions: Built-in guidance to help users understand how to use the program.
 
 Customizable Output: Option to choose between saving results, trying new inputs, or exiting the program.
+
+# Usage
+Run the program to display the menu.
+
+Choose from the following options:
+
+1: Generate the Fibonacci sequence iteratively.
+
+2: Generate the Fibonacci sequence recursively.
+
+3: View instructions.
+
+4: Exit the program.
