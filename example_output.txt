@@ -1,0 +1,16 @@
+--- Fibonacci Sequence Generator ---
+1. Generate Fibonacci sequence (Iterative)
+2. Generate Fibonacci sequence (Recursive)
+3. Instructions
+4. Exit
+------------------------------------
+Enter your choice (1/2/3/4): 1
+Enter the number of terms in the Fibonacci series: 5
+Fibonacci sequence for 5 terms (Iterative): [0, 1, 1, 2, 3]
+
+What would you like to do next?
+1. Save the sequence to a file.
+2. Try another number.
+3. Close the program.
+Enter your choice (1/2/3): 1
+Sequence appended to 'fibonacci_sequences.txt'.
